@@ -1,6 +1,4 @@
 Digital Literacy Portfolio
-
-
 <!--
 **sidharth25bce10869/sidharth25bce10869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
